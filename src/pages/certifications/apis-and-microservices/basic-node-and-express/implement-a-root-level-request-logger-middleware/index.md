@@ -5,7 +5,7 @@ title: Implement a Root-Level Request Logger Middleware
 
 <!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
 
-It is easier to write this challenge all at the top (there is already a stub for it). This is because middleware must be placed the function calls you want it to be used for.
+It is easier to write this challenge all at the top (there is already a stub for it). This is because middleware must be placed above the function calls you want it to be used for.
 
 To set up your own middleware you can do it like so:
 
